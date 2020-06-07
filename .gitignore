@@ -2,7 +2,7 @@
 # Edit at https://www.gitignore.io/?templates=django,python,pycharm+all,visualstudiocode
 
 ### custome files ###
-static/
+.static_root/
 **/migrations/**
 !__init__.py
 
